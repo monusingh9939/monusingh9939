@@ -4,10 +4,11 @@
 Email Me 👉 ✉️ **monurajnwd796@gmail.com.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** many projects
-- 🌱 **I’m currently learning:** languages
+- 🌱 **I’m currently learning:** Currently Learning Data Structure & Javascript
 - 🤔 **I’m looking for help with:** learning language
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** monurajnwd796@gmai.com
+- 📫 **Email:** monurajnwd796@gmail.com
+- 📫 **GitHub:** https://github.com/monusingh9939
 - 😄 **Pronouns:** Monu Singh
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 ## 🌐 Socials:
